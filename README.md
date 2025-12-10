@@ -1,5 +1,6 @@
 <!-- update 1 -->
-# Typescript SDK for Endless
+#<!-- update 1 -->
+ Typescript SDK for Endless
 <!-- update 1 -->
 
 ### Reference Docs
